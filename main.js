@@ -38,5 +38,5 @@ background('#497043');
   document.getElementById("font_size").innerHTML = "Font size of the text will be = " + difference +"px";
 textSize(difference);
 fill('#BF8F91');
-text('Peter', 50, 400);
+text('Mihika', 50, 400);
 }
